@@ -1,0 +1,1 @@
+textadept.file_types.extensions.hh = "hack"
