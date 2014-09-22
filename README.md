@@ -5,6 +5,8 @@ built-in types, classes and interfaces, although it needs tweaking. It's based
 around `php.lua` from Textadept's core lexer set, tweaked to handle Hack 
 better. 
 
+!(Screenshot)[http://i.imgur.com/Hn4yPIA.jpg]
+
 ## Installation
 
 To install, copy `lexers/hack.lua` into your `~/.textadept/lexers/` folder 
